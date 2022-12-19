@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Estonia&family=M+PLUS+1+Code&family=Montserrat&display=swap');
+        body{
+            font-family: 'Montserrat', sans-serif;
+        }
+        .b{
+            font-family: 'Montserrat', sans-serif;  
+        }
+        textarea{
+            width: 90%;
+            display: block;
+            margin: auto;
+            height: 13vh;
+            border: 2px solid black;
+            text-align: center;
+        }
+        #btn-translate{
+            background-color: green;
+            margin: 1rem 0;
+            border-radius: 4rem;
+        }
+        button{
+            margin: auto;
+        }
+        .letter{
+            padding: 1rem 0rem 0rem;
+        }
+        #output{
+            width: 90%;
+            background-color: white;
+            margin: auto;
+            height: 13vh;
+            border: solid black 2px;
+            /* border-radius: 4rem; */
+            text-align: center;
+        }
+        .nav{
+            text-align: center;
+            background-color: grey;
+            padding: 1rem;
+            border: solid black 2px;
+        }
+        placeholder{
+            text-align: center;
+        }
+        .footer{
+            background-color: navy;
+            border: solid black 2px;
+            margin: 5px;
+
+        }
